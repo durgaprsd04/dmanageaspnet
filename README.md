@@ -8,6 +8,7 @@
 * adding login for other users(facutly/students/non admin staff)
 * creating reg_coures, reg_student, reg_coureses_result
 * creating sem_type
+
 ###Control activities
 * Course Registration
 	* Pre  - reg
